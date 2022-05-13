@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ii Neutre ii -->
+    <color name="neutral_00">#FFFFFF</color>
+    <color name="neutral_10">#F2F8FF</color>
+    <color name="neutral_20">#CCD7E5</color>
+    <color name="neutral_30">#B0BFD1</color>
+    <color name="neutral_40">#91A3BA</color>
+    <color name="neutral_50">#778BA3</color>
+    <color name="neutral_60">#5D728C</color>
+    <color name="neutral_70">#495C75</color>
+    <color name="neutral_80">#374A61</color>
+    <color name="neutral_90">#26364A</color>
+    <color name="neutral_100">#172433</color>
+
+    <!-- ii Green ii -->
+    <color name="green_10">#EEFFEB</color>
+    <color name="green_20">#DEFAD9</color>
+    <color name="green_30">#CEF5C7</color>
+    <color name="green_40">#AAEA9F</color>
+    <color name="green_50">#87DB78</color>
+    <color name="green_60">#60CC4D</color>
+    <color name="green_70">#3CB626</color>
+    <color name="green_80">#1C9806</color>
+    <color name="green_90">#137402</color>
+    <color name="green_100">#0B4D00</color>
+
+    <!-- ii Pink ii -->
+    <color name="pink_10">#FFEBF1</color>
+    <color name="pink_20">#FFD9E4</color>
+    <color name="pink_30">#FFC6D6</color>
+    <color name="pink_40">#FF99B6</color>
+    <color name="pink_50b">#FF6B95</color>
+    <color name="pink_60">#FF3C74</color>
+    <color name="pink_70">#DC164F</color>
+    <color name="pink_80">#B20033</color>
+    <color name="pink_90">#800025</color>
+    <color name="pink_100">#800025</color>
+
+    <!-- ii Red ii -->
+    <color name="red_10">#FFEBEB</color>
+    <color name="red_20">#FFDDDD</color>
+    <color name="red_30">#FFCECE</color>
+    <color name="red_40">#FFA6A6</color>
+    <color name="red_50">#FF7B7B</color>
+    <color name="red_60">#FE5050</color>
+    <color name="red_70">#DC2323</color>
+    <color name="red_80">#B10101</color>
+    <color name="red_90">#800000</color>
+    <color name="red_100">#4D0000</color>
+
+    <!-- ii Blue ii -->
+    <color name="blue_10">#EBF8FF</color>
+    <color name="blue_20">#CEEDFF</color>
+    <color name="blue_30">#AFE2FF</color>
+    <color name="blue_40">#7ACEFF</color>
+    <color name="blue_50">#44B7FB</color>
+    <color name="blue_60">#249EE6</color>
+    <color name="blue_70">#0982C9</color>
+    <color name="blue_80">#0068A5</color>
+    <color name="blue_90">#004D7A</color>
+    <color name="blue_100">#00314D</color>
+
+    <!-- ii Yellow ii -->
+    <color name="yellow_10">#FFF5EB</color>
+    <color name="yellow_20">#FFEDDA</color>
+    <color name="yellow_30">#FFE3C8</color>
+    <color name="yellow_40">#FFCF9F</color>
+    <color name="yellow_50">#FCB974</color>
+    <color name="yellow_60">#E69647</color>
+    <color name="yellow_70">#CA7520</color>
+    <color name="yellow_80">#A65401</color>
+    <color name="yellow_90">#7A3D00</color>
+    <color name="yellow_100">#4D2700</color>
+
+    <!-- ii Gold ii -->
+    <color name="gold_10">#FFFFF8EB</color>
+    <color name="gold_20">#FFFFEECF</color>
+    <color name="gold_30">#FFFFE5B2</color>
+    <color name="gold_40">#FFFECF7F</color>
+    <color name="gold_50">#FFF5B74C</color>
+    <color name="gold_60">#FFE19E2A</color>
+    <color name="gold_70">#FFC6820D</color>
+    <color name="gold_80">#FFA36700</color>
+    <color name="gold_90">#FF794D00</color>
+    <color name="gold_100">#FF4D3000</color>
+
+    <!-- ii Orange ii -->
+    <color name="orange_10">#FFF0EB</color>
+    <color name="orange_20">#FFE2D9</color>
+    <color name="orange_30">#FFD3C6</color>
+    <color name="orange_40">#FFB29B</color>
+    <color name="orange_50">#FF916F</color>
+    <color name="orange_60">#E96B43</color>
+    <color name="orange_70">#CC471D</color>
+    <color name="orange_80">#A72700</color>
+    <color name="orange_90">#7B1D00</color>
+    <color name="orange_100">#4D1200</color>
+
+    <!-- ii Grape ii -->
+    <color name="grape_10">#F9EBFF</color>
+    <color name="grape_20">#F2DCFB</color>
+    <color name="grape_30">#EBCEF6</color>
+    <color name="grape_40">#DAAAED</color>
+    <color name="grape_50">#C585DE</color>
+    <color name="grape_60">#AD61CA</color>
+    <color name="grape_70">#903FB0</color>
+    <color name="grape_80">#6F228D</color>
+    <color name="grape_90">#530D6E</color>
+    <color name="grape_100">#37004D</color>
+
+    <!-- ii Forest ii -->
+    <color name="forest_10">#EBFFFC</color>
+    <color name="forest_20">#D6FDF6</color>
+    <color name="forest_30">#C1FBF1</color>
+    <color name="forest_40">#96F4E4</color>
+    <color name="forest_50">#6CE8D3</color>
+    <color name="forest_60">#43D6BE</color>
+    <color name="forest_70">#1EBEA3</color>
+    <color name="forest_80">#019E83</color>
+    <color name="forest_90">#007763</color>
+    <color name="forest_100">#004D40</color>
+
+
+    <!-- ii Semantic ii -->
+    <color name="negative">#FF3B30</color>
+    <color name="critical">#F29938</color>
+    <color name="positive">#4CD964</color>
+    <color name="information">#007AFF</color>
+</resources>
